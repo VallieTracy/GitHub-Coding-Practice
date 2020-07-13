@@ -1,2 +1,1 @@
-# LeetCode
-Practice problems from LeetCode
+Practicing coding skills!
